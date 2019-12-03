@@ -32,7 +32,7 @@ return [
     'boolean'              => 'O campo :attribute deve ser verdadeiro ou falso.',
     'confirmed'            => 'O campo :attribute de confirmação não confere.',
     'date'                 => 'O campo :attribute não é uma data válida.',
-    'date_equals' => 'O :attribute deve ser uma data igual a :date.',
+    'date_equals' => 'O campo :attribute deve ser uma data igual a :date.',
     'date_format'          => 'O campo :attribute não corresponde ao formato :format.',
     'different'            => 'Os campos :attribute e :other devem ser diferentes.',
     'digits'               => 'O campo :attribute deve ter :digits dígitos.',
@@ -109,13 +109,13 @@ return [
         'string'  => 'O campo :attribute deve ser :size caracteres.',
         'array'   => 'O campo :attribute deve conter :size itens.',
     ],
-    'starts_with'          => 'O :attribute deve começar com um dos seguintes: :values',
+    'starts_with'          => 'O campo :attribute deve começar com um dos seguintes: :values',
     'string'               => 'O campo :attribute deve ser uma string.',
     'timezone'             => 'O campo :attribute deve ser uma zona válida.',
     'unique'               => 'O campo :attribute já está sendo utilizado.',
     'uploaded'             => 'Ocorreu uma falha no upload do campo :attribute.',
     'url'                  => 'O campo :attribute tem um formato inválido.',
-    'uuid'                 => 'O :attribute deve ser um UUID válido.',
+    'uuid'                 => 'O :attribute deve ser um UUID válida.',
 
     /*
     |--------------------------------------------------------------------------
